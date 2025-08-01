@@ -32,7 +32,7 @@ It will try to adapt already installed games to the new concept when launched th
 The windows installer in wine now uses a 2-step attempt to install games. 
 1. An unattended installer.
 2. In case this fails, the regular installation wizard will open. **Please do not change** the  
-install directory 'c:\game' given in the wizard as this an elementary part of the wine fix.
+install directory `C:\game` given in the wizard as this is an elementary part of the wine fix.
 
 ## Supported languages
 
